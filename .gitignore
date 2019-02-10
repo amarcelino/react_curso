@@ -42,3 +42,27 @@
 /frontend/npm-debug.log*
 /frontend/yarn-debug.log*
 /frontend/yarn-error.log*
+
+/mobile/node_modules
+/mobile/.pnp
+/mobile/.pnp.js
+
+# testing
+/mobile/coverage
+
+# production
+/mobile/build
+
+# misc
+/mobile/.DS_Store
+/mobile/.env.local
+/mobile/.env.development.local
+/mobile/.env.test.local
+/mobile/.env.production.local
+
+/mobile/npm-debug.log*
+/mobile/yarn-debug.log*
+/mobile/yarn-error.log*
+/mobile/android
+/mobile/ios
+/mobile/__tests__
